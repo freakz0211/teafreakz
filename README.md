@@ -1,0 +1,2 @@
+# teafreakz
+Tea Testnet
