@@ -1,12 +1,15 @@
 {
   "name": "freakztea",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freakz0211/teafreakz"
   },
   "dependencies": {
     "react": "^18",
